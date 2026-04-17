@@ -12,8 +12,8 @@ Below is a curated list of research papers on TokenCom (keeps updating):
 
 </div>
 
-1. L Qiao et al., *Token Communications: A Large Model-Driven Framework for Cross-modal Context-aware Semantic Communications,* **IEEE Wireless Communications**, vol. 32, no. 5, pp. 80-88, October 2025.
-2. L. Qiao et al., *Token-Domain Multiple Access: Exploiting Semantic Orthogonality for Collision Mitigation,* **IEEE INFOCOM Workshops**, London, 2025, pp. 1-6.
+1. L Qiao et al., *Token Communications: A Large Model-Driven Framework for Cross-modal Context-aware Semantic Communications,* **IEEE Wireless Communications**, vol. 32, no. 5, pp. 80-88, October 2025. [[IEEE Xplore](https://ieeexplore.ieee.org/document/11175596)]
+2. L. Qiao et al., *Token-Domain Multiple Access: Exploiting Semantic Orthogonality for Collision Mitigation,* **IEEE INFOCOM Workshops**, London, 2025, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/document/11152964)]
 3. L Qiao et al., *ToDMA: Large Model-Driven Token-Domain Multiple Access for Semantic Communications,* arXiv:2505.10946v1 [cs.IT], 16 May 2025.
 4. Z. Liu et al., *ResiTok: A Resilient Tokenization-Enabled Framework for Ultra-Low-Rate and Robust Image Transmission,* **IEEE SPAWC 2025**, pp. 1-5.
 5. S. Lee et al., *Semantic Packet Aggregation for Token Communication via Genetic Beam Search,* **IEEE SPAWC 2025**, pp. 1-5.
